@@ -1,0 +1,4 @@
+name,type,label,xPos,yPos
+AM-201,air-sensor,Indoor Air Quality Sensor,0.49,0.4
+EM-202,energy-sensor,Energy Meter,0.14,0.22
+WM-203,water-sensor,Water Flow Meter,0.87,0.37

@@ -1,0 +1,4 @@
+name,type,label
+AM-101,air-sensor,Indoor Air Quality Sensor
+EM-102,energy-sensor,Energy Meter
+WM-103,water-sensor,Water Flow Meter
