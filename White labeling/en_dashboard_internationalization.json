@@ -1,0 +1,12 @@
+{
+  "custom": {
+    "weather-dashboard": {
+      "title": "Weather",
+      "temp-hum-widget-title":"Temperature and humidity history",
+      "dew-point-widget-title": "Dew point history",
+      "temperature-key": "Temperature",
+      "humidity-key": "Humidity",
+      "dew-point-key": "Dew point"
+    }
+  }
+}

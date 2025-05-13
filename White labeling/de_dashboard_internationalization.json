@@ -1,0 +1,12 @@
+{
+  "custom": {
+    "weather-dashboard": {
+      "title": "Wetter",
+      "temp-hum-widget-title": "Temperatur- und Luftfeuchtigkeitsverlauf",
+      "dew-point-widget-title": "Taupunktverlauf",
+      "temperature-key": "Temperatur",
+      "humidity-key": "Feuchtigkeit",
+      "dew-point-key": "Taupunkt"
+    }
+  }
+}
